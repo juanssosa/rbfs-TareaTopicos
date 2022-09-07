@@ -4,7 +4,7 @@ from puzzle import Puzzle
 state=[[1, 3, 4,
         8, 6, 2,
         7, 0, 5],
-
+       
        [2, 8, 1,
         0, 4, 3,
         7, 6, 5],
